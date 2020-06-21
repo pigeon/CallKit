@@ -2,6 +2,8 @@
 
 Quick test of CallKit UI. All the app does at the moment it shows native incoming call screen when *Incoming Call* button is pressed.
 
+![image](images/incoming_call.jpeg)
+
 It also makes attempt to show outgoing call but it's shown only on the lock screen.
 
 
