@@ -5,6 +5,313 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>16E8BFE1-F752-4F33-8F95-DF6C26BA5760</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>16E8BFE1-F752-4F33-8F95-DF6C26BA5760.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CallUI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CallUI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run CallUI</string>
+			<key>timeStartedRecording</key>
+			<real>614446657.50361502</real>
+			<key>timeStoppedRecording</key>
+			<real>614446706.14231396</real>
+			<key>title</key>
+			<string>Run CallUI</string>
+			<key>uniqueIdentifier</key>
+			<string>16E8BFE1-F752-4F33-8F95-DF6C26BA5760</string>
+		</dict>
+		<key>47BA1674-A187-49A4-B1C9-BA08AA299A93</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>47BA1674-A187-49A4-B1C9-BA08AA299A93.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CallUI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CallUI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run CallUI</string>
+			<key>timeStartedRecording</key>
+			<real>614446818.29033697</real>
+			<key>timeStoppedRecording</key>
+			<real>614446822.67801297</real>
+			<key>title</key>
+			<string>Run CallUI</string>
+			<key>uniqueIdentifier</key>
+			<string>47BA1674-A187-49A4-B1C9-BA08AA299A93</string>
+		</dict>
+		<key>5D93C3F0-DEE9-468C-9A6E-974FBC98850B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5D93C3F0-DEE9-468C-9A6E-974FBC98850B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CallUI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CallUI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run CallUI</string>
+			<key>timeStartedRecording</key>
+			<real>614446026.09240699</real>
+			<key>timeStoppedRecording</key>
+			<real>614446331.28533101</real>
+			<key>title</key>
+			<string>Run CallUI</string>
+			<key>uniqueIdentifier</key>
+			<string>5D93C3F0-DEE9-468C-9A6E-974FBC98850B</string>
+		</dict>
+		<key>652027D4-5392-464A-80D7-994ADB36EC6B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>652027D4-5392-464A-80D7-994ADB36EC6B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CallUI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CallUI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run CallUI</string>
+			<key>timeStartedRecording</key>
+			<real>614446497.27361906</real>
+			<key>timeStoppedRecording</key>
+			<real>614446514.64444995</real>
+			<key>title</key>
+			<string>Run CallUI</string>
+			<key>uniqueIdentifier</key>
+			<string>652027D4-5392-464A-80D7-994ADB36EC6B</string>
+		</dict>
+		<key>69551F05-CED2-4CE8-8FDB-D5D1D9C61A2B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>69551F05-CED2-4CE8-8FDB-D5D1D9C61A2B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CallUI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CallUI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run CallUI</string>
+			<key>timeStartedRecording</key>
+			<real>614445914.55087602</real>
+			<key>timeStoppedRecording</key>
+			<real>614445940.36616504</real>
+			<key>title</key>
+			<string>Run CallUI</string>
+			<key>uniqueIdentifier</key>
+			<string>69551F05-CED2-4CE8-8FDB-D5D1D9C61A2B</string>
+		</dict>
+		<key>80A5AE64-C8B0-4CB0-9184-293B847DB34B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>80A5AE64-C8B0-4CB0-9184-293B847DB34B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CallUI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CallUI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run CallUI</string>
+			<key>timeStartedRecording</key>
+			<real>614446461.34175503</real>
+			<key>timeStoppedRecording</key>
+			<real>614446492.77612495</real>
+			<key>title</key>
+			<string>Run CallUI</string>
+			<key>uniqueIdentifier</key>
+			<string>80A5AE64-C8B0-4CB0-9184-293B847DB34B</string>
+		</dict>
+		<key>C1FBB1B5-1177-41EE-9F90-BA79FD85BE1B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C1FBB1B5-1177-41EE-9F90-BA79FD85BE1B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CallUI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CallUI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run CallUI</string>
+			<key>timeStartedRecording</key>
+			<real>614446331.78382897</real>
+			<key>timeStoppedRecording</key>
+			<real>614446443.321105</real>
+			<key>title</key>
+			<string>Run CallUI</string>
+			<key>uniqueIdentifier</key>
+			<string>C1FBB1B5-1177-41EE-9F90-BA79FD85BE1B</string>
+		</dict>
+		<key>EF8E561E-ADC5-4021-BD9C-88583F8E27CC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EF8E561E-ADC5-4021-BD9C-88583F8E27CC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CallUI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CallUI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run CallUI</string>
+			<key>timeStartedRecording</key>
+			<real>614446592.85646999</real>
+			<key>timeStoppedRecording</key>
+			<real>614446651.72943699</real>
+			<key>title</key>
+			<string>Run CallUI</string>
+			<key>uniqueIdentifier</key>
+			<string>EF8E561E-ADC5-4021-BD9C-88583F8E27CC</string>
+		</dict>
+		<key>F6C4E62D-60CF-470B-9005-61D4667B5F17</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F6C4E62D-60CF-470B-9005-61D4667B5F17.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CallUI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CallUI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run CallUI</string>
+			<key>timeStartedRecording</key>
+			<real>614446560.59748805</real>
+			<key>timeStoppedRecording</key>
+			<real>614446589.53121197</real>
+			<key>title</key>
+			<string>Run CallUI</string>
+			<key>uniqueIdentifier</key>
+			<string>F6C4E62D-60CF-470B-9005-61D4667B5F17</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
