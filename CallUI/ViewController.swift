@@ -31,7 +31,8 @@ class ViewController: UIViewController, CXProviderDelegate {
     }
     @IBAction private func callDidInitialise(_ sender: Any) {
         let update = CXCallUpdate()
-         update.remoteHandle = CXHandle(type: .generic, value: "The Mad Hatter")
+         //update.remoteHandle = CXHandle(type: .generic, value: /*"The Mad Hatter"*/)
+        update.remoteHandle = CXHandle(type: .emailAddress, value: /*"The Mad Hatter"*/ "themadhatter@apple.com")
          provider.reportNewIncomingCall(with: UUID(), update: update, completion: { error in })
 
     }

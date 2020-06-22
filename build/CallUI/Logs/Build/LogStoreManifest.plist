@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>0D004D74-28B9-4185-BB55-2DC11D40D17E</key>
+		<key>13372388-8D00-410C-8504-30E8B0FA2507</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>0D004D74-28B9-4185-BB55-2DC11D40D17E.xcactivitylog</string>
+			<string>13372388-8D00-410C-8504-30E8B0FA2507.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,15 +32,15 @@
 			<key>signature</key>
 			<string>Build CallUI</string>
 			<key>timeStartedRecording</key>
-			<real>614446592.79349101</real>
+			<real>614525160.13285196</real>
 			<key>timeStoppedRecording</key>
-			<real>614446592.85361004</real>
+			<real>614525166.49610996</real>
 			<key>title</key>
 			<string>Build CallUI</string>
 			<key>uniqueIdentifier</key>
-			<string>0D004D74-28B9-4185-BB55-2DC11D40D17E</string>
+			<string>13372388-8D00-410C-8504-30E8B0FA2507</string>
 		</dict>
-		<key>17E75E38-C54B-4884-8524-60BDEE4F5E34</key>
+		<key>13C1AC73-A15D-4D9E-AA46-4E7CDEAEBFA6</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -49,7 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>17E75E38-C54B-4884-8524-60BDEE4F5E34.xcactivitylog</string>
+			<string>13C1AC73-A15D-4D9E-AA46-4E7CDEAEBFA6.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,15 +66,15 @@
 			<key>signature</key>
 			<string>Build CallUI</string>
 			<key>timeStartedRecording</key>
-			<real>614446324.07696903</real>
+			<real>614525009.02416205</real>
 			<key>timeStoppedRecording</key>
-			<real>614446327.57230103</real>
+			<real>614525010.88066494</real>
 			<key>title</key>
 			<string>Build CallUI</string>
 			<key>uniqueIdentifier</key>
-			<string>17E75E38-C54B-4884-8524-60BDEE4F5E34</string>
+			<string>13C1AC73-A15D-4D9E-AA46-4E7CDEAEBFA6</string>
 		</dict>
-		<key>218CE145-83BB-4EA1-B045-7E5FAA0854CF</key>
+		<key>14AF13E4-0EE9-4F09-8A41-659FE2C3DA71</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -83,7 +83,143 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>218CE145-83BB-4EA1-B045-7E5FAA0854CF.xcactivitylog</string>
+			<string>14AF13E4-0EE9-4F09-8A41-659FE2C3DA71.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CallUI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CallUI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CallUI</string>
+			<key>timeStartedRecording</key>
+			<real>614525338.95311296</real>
+			<key>timeStoppedRecording</key>
+			<real>614525340.82503498</real>
+			<key>title</key>
+			<string>Build CallUI</string>
+			<key>uniqueIdentifier</key>
+			<string>14AF13E4-0EE9-4F09-8A41-659FE2C3DA71</string>
+		</dict>
+		<key>668B5DE2-66AE-422A-A3A4-1579CF50A0C2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>668B5DE2-66AE-422A-A3A4-1579CF50A0C2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CallUI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CallUI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CallUI</string>
+			<key>timeStartedRecording</key>
+			<real>614526104.30730104</real>
+			<key>timeStoppedRecording</key>
+			<real>614526104.36322904</real>
+			<key>title</key>
+			<string>Build CallUI</string>
+			<key>uniqueIdentifier</key>
+			<string>668B5DE2-66AE-422A-A3A4-1579CF50A0C2</string>
+		</dict>
+		<key>7791D1B9-5E92-4604-8B66-7205EEBDB2AD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7791D1B9-5E92-4604-8B66-7205EEBDB2AD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CallUI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CallUI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CallUI</string>
+			<key>timeStartedRecording</key>
+			<real>614526898.00515401</real>
+			<key>timeStoppedRecording</key>
+			<real>614526905.92533803</real>
+			<key>title</key>
+			<string>Build CallUI</string>
+			<key>uniqueIdentifier</key>
+			<string>7791D1B9-5E92-4604-8B66-7205EEBDB2AD</string>
+		</dict>
+		<key>785E7B38-0A0E-40A7-AD2B-8CD724B6AF52</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>785E7B38-0A0E-40A7-AD2B-8CD724B6AF52.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CallUI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CallUI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CallUI</string>
+			<key>timeStartedRecording</key>
+			<real>614525060.57388306</real>
+			<key>timeStoppedRecording</key>
+			<real>614525062.26357102</real>
+			<key>title</key>
+			<string>Build CallUI</string>
+			<key>uniqueIdentifier</key>
+			<string>785E7B38-0A0E-40A7-AD2B-8CD724B6AF52</string>
+		</dict>
+		<key>820B6E08-6AFF-40DE-8497-D6429DB1552E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>820B6E08-6AFF-40DE-8497-D6429DB1552E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -100,15 +236,15 @@
 			<key>signature</key>
 			<string>Build CallUI</string>
 			<key>timeStartedRecording</key>
-			<real>614447422.24484503</real>
+			<real>614524996.53496802</real>
 			<key>timeStoppedRecording</key>
-			<real>614447422.74748397</real>
+			<real>614525002.00339198</real>
 			<key>title</key>
 			<string>Build CallUI</string>
 			<key>uniqueIdentifier</key>
-			<string>218CE145-83BB-4EA1-B045-7E5FAA0854CF</string>
+			<string>820B6E08-6AFF-40DE-8497-D6429DB1552E</string>
 		</dict>
-		<key>2457893B-44FE-4A85-8727-4651F0589D05</key>
+		<key>9DF3BCF7-1547-4D41-B416-84E76E668937</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -117,7 +253,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>2457893B-44FE-4A85-8727-4651F0589D05.xcactivitylog</string>
+			<string>9DF3BCF7-1547-4D41-B416-84E76E668937.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -134,353 +270,13 @@
 			<key>signature</key>
 			<string>Build CallUI</string>
 			<key>timeStartedRecording</key>
-			<real>614446443.91395903</real>
+			<real>614526000.18689299</real>
 			<key>timeStoppedRecording</key>
-			<real>614446461.33614099</real>
+			<real>614526001.78386605</real>
 			<key>title</key>
 			<string>Build CallUI</string>
 			<key>uniqueIdentifier</key>
-			<string>2457893B-44FE-4A85-8727-4651F0589D05</string>
-		</dict>
-		<key>305F4208-6C5A-449A-B111-C104A5E18FB2</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>305F4208-6C5A-449A-B111-C104A5E18FB2.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>CallUI project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>CallUI</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build CallUI</string>
-			<key>timeStartedRecording</key>
-			<real>614447349.14812696</real>
-			<key>timeStoppedRecording</key>
-			<real>614447351.80321002</real>
-			<key>title</key>
-			<string>Build CallUI</string>
-			<key>uniqueIdentifier</key>
-			<string>305F4208-6C5A-449A-B111-C104A5E18FB2</string>
-		</dict>
-		<key>42CE0D4E-1A54-41DA-B689-12A2DE6D0103</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>42CE0D4E-1A54-41DA-B689-12A2DE6D0103.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>CallUI project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>CallUI</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build CallUI</string>
-			<key>timeStartedRecording</key>
-			<real>614446657.43018603</real>
-			<key>timeStoppedRecording</key>
-			<real>614446657.50064504</real>
-			<key>title</key>
-			<string>Build CallUI</string>
-			<key>uniqueIdentifier</key>
-			<string>42CE0D4E-1A54-41DA-B689-12A2DE6D0103</string>
-		</dict>
-		<key>55026214-68E1-49D4-BC55-CA628334F638</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>55026214-68E1-49D4-BC55-CA628334F638.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>CallUI project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>CallUI</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build CallUI</string>
-			<key>timeStartedRecording</key>
-			<real>614446824.67700505</real>
-			<key>timeStoppedRecording</key>
-			<real>614446824.74487805</real>
-			<key>title</key>
-			<string>Build CallUI</string>
-			<key>uniqueIdentifier</key>
-			<string>55026214-68E1-49D4-BC55-CA628334F638</string>
-		</dict>
-		<key>663B200E-254A-45DD-AA9B-1A11CDA4296F</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>663B200E-254A-45DD-AA9B-1A11CDA4296F.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>CallUI project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>CallUI</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build CallUI</string>
-			<key>timeStartedRecording</key>
-			<real>614447054.50935304</real>
-			<key>timeStoppedRecording</key>
-			<real>614447055.72053301</real>
-			<key>title</key>
-			<string>Build CallUI</string>
-			<key>uniqueIdentifier</key>
-			<string>663B200E-254A-45DD-AA9B-1A11CDA4296F</string>
-		</dict>
-		<key>66A662AE-CAB4-407B-A65B-886D7D173E59</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>66A662AE-CAB4-407B-A65B-886D7D173E59.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>CallUI project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>CallUI</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build CallUI</string>
-			<key>timeStartedRecording</key>
-			<real>614447096.87144697</real>
-			<key>timeStoppedRecording</key>
-			<real>614447099.95779097</real>
-			<key>title</key>
-			<string>Build CallUI</string>
-			<key>uniqueIdentifier</key>
-			<string>66A662AE-CAB4-407B-A65B-886D7D173E59</string>
-		</dict>
-		<key>67957A29-3308-43E5-8FEF-306C13538965</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>67957A29-3308-43E5-8FEF-306C13538965.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>CallUI project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>CallUI</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build CallUI</string>
-			<key>timeStartedRecording</key>
-			<real>614446235.51919603</real>
-			<key>timeStoppedRecording</key>
-			<real>614446236.62861001</real>
-			<key>title</key>
-			<string>Build CallUI</string>
-			<key>uniqueIdentifier</key>
-			<string>67957A29-3308-43E5-8FEF-306C13538965</string>
-		</dict>
-		<key>746DCFE0-0FCB-49DE-BC49-21BC28696932</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>746DCFE0-0FCB-49DE-BC49-21BC28696932.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>CallUI project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>CallUI</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build CallUI</string>
-			<key>timeStartedRecording</key>
-			<real>614446180.60505402</real>
-			<key>timeStoppedRecording</key>
-			<real>614446181.20966995</real>
-			<key>title</key>
-			<string>Build CallUI</string>
-			<key>uniqueIdentifier</key>
-			<string>746DCFE0-0FCB-49DE-BC49-21BC28696932</string>
-		</dict>
-		<key>7A9B72AC-A6AA-4AE0-A67E-31D275AC5A18</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>7A9B72AC-A6AA-4AE0-A67E-31D275AC5A18.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>CallUI project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>CallUI</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build CallUI</string>
-			<key>timeStartedRecording</key>
-			<real>614447010.05335903</real>
-			<key>timeStoppedRecording</key>
-			<real>614447011.38345003</real>
-			<key>title</key>
-			<string>Build CallUI</string>
-			<key>uniqueIdentifier</key>
-			<string>7A9B72AC-A6AA-4AE0-A67E-31D275AC5A18</string>
-		</dict>
-		<key>85DEC375-DB1E-4D37-9DC2-3D2CB06A9E90</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>85DEC375-DB1E-4D37-9DC2-3D2CB06A9E90.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>CallUI project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>CallUI</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build CallUI</string>
-			<key>timeStartedRecording</key>
-			<real>614446118.63806796</real>
-			<key>timeStoppedRecording</key>
-			<real>614446118.76108599</real>
-			<key>title</key>
-			<string>Build CallUI</string>
-			<key>uniqueIdentifier</key>
-			<string>85DEC375-DB1E-4D37-9DC2-3D2CB06A9E90</string>
-		</dict>
-		<key>9340E271-01D8-4336-9262-86D54F9F0206</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>9340E271-01D8-4336-9262-86D54F9F0206.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>CallUI project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>CallUI</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build CallUI</string>
-			<key>timeStartedRecording</key>
-			<real>614446133.69153094</real>
-			<key>timeStoppedRecording</key>
-			<real>614446135.10329604</real>
-			<key>title</key>
-			<string>Build CallUI</string>
-			<key>uniqueIdentifier</key>
-			<string>9340E271-01D8-4336-9262-86D54F9F0206</string>
+			<string>9DF3BCF7-1547-4D41-B416-84E76E668937</string>
 		</dict>
 		<key>A9146357-5370-4E0C-B0A1-F36A07BB19F4</key>
 		<dict>
@@ -516,7 +312,7 @@
 			<key>uniqueIdentifier</key>
 			<string>A9146357-5370-4E0C-B0A1-F36A07BB19F4</string>
 		</dict>
-		<key>B0CAAD6C-DFAF-4CB2-864B-3764C2C3D335</key>
+		<key>B4AAB9ED-7B6B-4190-A197-4EFB575129AC</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -525,7 +321,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>B0CAAD6C-DFAF-4CB2-864B-3764C2C3D335.xcactivitylog</string>
+			<string>B4AAB9ED-7B6B-4190-A197-4EFB575129AC.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -542,15 +338,15 @@
 			<key>signature</key>
 			<string>Build CallUI</string>
 			<key>timeStartedRecording</key>
-			<real>614446497.19276404</real>
+			<real>614525375.34578896</real>
 			<key>timeStoppedRecording</key>
-			<real>614446497.27004302</real>
+			<real>614525376.96032906</real>
 			<key>title</key>
 			<string>Build CallUI</string>
 			<key>uniqueIdentifier</key>
-			<string>B0CAAD6C-DFAF-4CB2-864B-3764C2C3D335</string>
+			<string>B4AAB9ED-7B6B-4190-A197-4EFB575129AC</string>
 		</dict>
-		<key>B6ADF44E-516B-428D-808A-4CFD4EC70C95</key>
+		<key>BCFE17A1-11D8-40E8-9779-CBF3597D987F</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -559,7 +355,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>B6ADF44E-516B-428D-808A-4CFD4EC70C95.xcactivitylog</string>
+			<string>BCFE17A1-11D8-40E8-9779-CBF3597D987F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -576,15 +372,15 @@
 			<key>signature</key>
 			<string>Build CallUI</string>
 			<key>timeStartedRecording</key>
-			<real>614446012.01101005</real>
+			<real>614525967.70253897</real>
 			<key>timeStoppedRecording</key>
-			<real>614446013.52303398</real>
+			<real>614525967.78838503</real>
 			<key>title</key>
 			<string>Build CallUI</string>
 			<key>uniqueIdentifier</key>
-			<string>B6ADF44E-516B-428D-808A-4CFD4EC70C95</string>
+			<string>BCFE17A1-11D8-40E8-9779-CBF3597D987F</string>
 		</dict>
-		<key>C6D5DA4B-3FAF-45F3-82A4-C9A46B465ED5</key>
+		<key>C91DC2F3-4010-4178-9273-6B38D0D8527D</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -593,7 +389,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>C6D5DA4B-3FAF-45F3-82A4-C9A46B465ED5.xcactivitylog</string>
+			<string>C91DC2F3-4010-4178-9273-6B38D0D8527D.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -610,15 +406,15 @@
 			<key>signature</key>
 			<string>Build CallUI</string>
 			<key>timeStartedRecording</key>
-			<real>614446816.665259</real>
+			<real>614525379.81992805</real>
 			<key>timeStoppedRecording</key>
-			<real>614446818.28496301</real>
+			<real>614525379.87621701</real>
 			<key>title</key>
 			<string>Build CallUI</string>
 			<key>uniqueIdentifier</key>
-			<string>C6D5DA4B-3FAF-45F3-82A4-C9A46B465ED5</string>
+			<string>C91DC2F3-4010-4178-9273-6B38D0D8527D</string>
 		</dict>
-		<key>D573B1BB-8B09-4B2E-975E-0B1509B83A88</key>
+		<key>D50121DC-A3B4-4697-B2F1-5F251EA837B1</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -627,7 +423,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>D573B1BB-8B09-4B2E-975E-0B1509B83A88.xcactivitylog</string>
+			<string>D50121DC-A3B4-4697-B2F1-5F251EA837B1.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -644,15 +440,15 @@
 			<key>signature</key>
 			<string>Build CallUI</string>
 			<key>timeStartedRecording</key>
-			<real>614446560.53767097</real>
+			<real>614526009.44939995</real>
 			<key>timeStoppedRecording</key>
-			<real>614446560.59414804</real>
+			<real>614526009.51396596</real>
 			<key>title</key>
 			<string>Build CallUI</string>
 			<key>uniqueIdentifier</key>
-			<string>D573B1BB-8B09-4B2E-975E-0B1509B83A88</string>
+			<string>D50121DC-A3B4-4697-B2F1-5F251EA837B1</string>
 		</dict>
-		<key>D725E1FB-18A0-4A2A-81E2-74682B6932FE</key>
+		<key>E20FC18A-FBB7-4C26-979C-A82A0456D044</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -661,7 +457,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>D725E1FB-18A0-4A2A-81E2-74682B6932FE.xcactivitylog</string>
+			<string>E20FC18A-FBB7-4C26-979C-A82A0456D044.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -678,15 +474,15 @@
 			<key>signature</key>
 			<string>Build CallUI</string>
 			<key>timeStartedRecording</key>
-			<real>614447228.67929602</real>
+			<real>614525345.91237605</real>
 			<key>timeStoppedRecording</key>
-			<real>614447229.67517495</real>
+			<real>614525346.00236404</real>
 			<key>title</key>
 			<string>Build CallUI</string>
 			<key>uniqueIdentifier</key>
-			<string>D725E1FB-18A0-4A2A-81E2-74682B6932FE</string>
+			<string>E20FC18A-FBB7-4C26-979C-A82A0456D044</string>
 		</dict>
-		<key>DC2014F4-3952-4DC9-AADD-34311861D4E3</key>
+		<key>E68942FB-5EBE-450D-ADF2-B1FFF6668438</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -695,7 +491,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>DC2014F4-3952-4DC9-AADD-34311861D4E3.xcactivitylog</string>
+			<string>E68942FB-5EBE-450D-ADF2-B1FFF6668438.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -712,115 +508,13 @@
 			<key>signature</key>
 			<string>Build CallUI</string>
 			<key>timeStartedRecording</key>
-			<real>614447204.44579303</real>
+			<real>614525963.10219705</real>
 			<key>timeStoppedRecording</key>
-			<real>614447206.20524704</real>
+			<real>614525966.09701002</real>
 			<key>title</key>
 			<string>Build CallUI</string>
 			<key>uniqueIdentifier</key>
-			<string>DC2014F4-3952-4DC9-AADD-34311861D4E3</string>
-		</dict>
-		<key>E72DFBFD-C1F3-433D-8592-E3F5EB1D0951</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>E72DFBFD-C1F3-433D-8592-E3F5EB1D0951.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>CallUI project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>CallUI</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build CallUI</string>
-			<key>timeStartedRecording</key>
-			<real>614446026.04599798</real>
-			<key>timeStoppedRecording</key>
-			<real>614446026.08736706</real>
-			<key>title</key>
-			<string>Build CallUI</string>
-			<key>uniqueIdentifier</key>
-			<string>E72DFBFD-C1F3-433D-8592-E3F5EB1D0951</string>
-		</dict>
-		<key>E9C68E1C-0788-48C9-B46B-01012EB21C66</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>E9C68E1C-0788-48C9-B46B-01012EB21C66.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>CallUI project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>CallUI</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build CallUI</string>
-			<key>timeStartedRecording</key>
-			<real>614445898.49532402</real>
-			<key>timeStoppedRecording</key>
-			<real>614445914.54447603</real>
-			<key>title</key>
-			<string>Build CallUI</string>
-			<key>uniqueIdentifier</key>
-			<string>E9C68E1C-0788-48C9-B46B-01012EB21C66</string>
-		</dict>
-		<key>ED93917D-7D8B-4DA6-A741-A60E9D628D93</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>ED93917D-7D8B-4DA6-A741-A60E9D628D93.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>CallUI project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>CallUI</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build CallUI</string>
-			<key>timeStartedRecording</key>
-			<real>614446331.73973298</real>
-			<key>timeStoppedRecording</key>
-			<real>614446331.78076804</real>
-			<key>title</key>
-			<string>Build CallUI</string>
-			<key>uniqueIdentifier</key>
-			<string>ED93917D-7D8B-4DA6-A741-A60E9D628D93</string>
+			<string>E68942FB-5EBE-450D-ADF2-B1FFF6668438</string>
 		</dict>
 	</dict>
 </dict>

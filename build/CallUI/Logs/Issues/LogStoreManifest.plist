@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>E74A2D0F-6665-4E26-B835-9D5F0589981F</key>
+		<key>C1159FA4-415F-47DF-B2E1-152BEFB3BF1F</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>E74A2D0F-6665-4E26-B835-9D5F0589981F.xcactivitylog</string>
+			<string>C1159FA4-415F-47DF-B2E1-152BEFB3BF1F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -26,13 +26,13 @@
 			<key>signature</key>
 			<string>CallUI-bzrymieydyrkzshjbxtzzuloahfa</string>
 			<key>timeStartedRecording</key>
-			<real>614447440.34530604</real>
+			<real>614526898.83939195</real>
 			<key>timeStoppedRecording</key>
-			<real>614447441.57625496</real>
+			<real>614526905.90226805</real>
 			<key>title</key>
 			<string>Build target CallUI</string>
 			<key>uniqueIdentifier</key>
-			<string>E74A2D0F-6665-4E26-B835-9D5F0589981F</string>
+			<string>C1159FA4-415F-47DF-B2E1-152BEFB3BF1F</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>
